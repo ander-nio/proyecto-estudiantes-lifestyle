@@ -63,3 +63,7 @@ El código fue refactorizado en un script modular (`src/main.py`) que utiliza `p
 Más allá del análisis descriptivo, la utilidad práctica de este pipeline es servir como **Sistema de Alerta Temprana** integrado en plataformas universitarias (LMS). El modelo permite identificar de forma automatizada a aquellos alumnos con combinaciones de hábitos desequilibrados (ej. alto estrés + privación de sueño) antes de que sufran caídas drásticas en sus calificaciones o reprobación de asignaturas.
 
 ---
+
+### 👤 Autor
+**Andersson Pinzon**  
+[GitHub Profile](https://github.com/ander-nio)
